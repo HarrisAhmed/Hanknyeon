@@ -6,7 +6,6 @@ import asqlite
 from views import Cards, Menu, DeleteView
 from db import Hanknyeon
 import os
-from keep_alive import keep_alive
 import random
 from datetime import date
 from tictactoe import TicTacToeView
@@ -303,6 +302,5 @@ async def favourite(inter):
     pass
 
 
-keep_alive()
 def setup(token):
     bot.run(token)
