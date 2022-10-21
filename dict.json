@@ -1,0 +1,22 @@
+{
+    "data":
+    {
+        "EXMP#000":{
+           "name" : "THE BOYZ",
+           "rarity" : 5
+        },
+        "EXMP#001":{
+            "name" : "THE BOYZ",
+            "rarity" : 5
+        },
+        "EXMP#002":{
+            "name" : "THE BOYZ",
+            "rarity" : 1
+        },
+       "EXMP#003":{
+         "name" : "THE BOYZ Juyeon",
+         "rarity" : 4
+       }
+        
+    }
+}
