@@ -304,5 +304,5 @@ async def favourite(inter):
 
 
 keep_alive()
-bot.run(
-    "MTAyNDM4NzA5MTgzNDA3NzI1Ng.GjSlb2.OTAWG5fbnXoOT5Ef3mBAR6Yq83xTpDxVYo2TBQ")
+def setup(token):
+    bot.run(token)
